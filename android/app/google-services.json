@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304822853034",
+    "project_id": "voki-35693",
+    "storage_bucket": "voki-35693.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304822853034:android:9ace3f5bd6af85713edfd3",
+        "android_client_info": {
+          "package_name": "com.example.voki_nuevo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1c8pF0Ytq_A_zNw78Hx2EAMH1AE_2ChA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304822853034:android:13bb66587090d1803edfd3",
+        "android_client_info": {
+          "package_name": "com.voki.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1c8pF0Ytq_A_zNw78Hx2EAMH1AE_2ChA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
