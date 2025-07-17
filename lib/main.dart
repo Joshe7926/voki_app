@@ -18,6 +18,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Voki',
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        useMaterial3: true,
+        colorSchemeSeed:
+            Colors.deepPurple, // Puedes cambiar a otro color base si prefieres
+      ),
       home: const LoginScreen(),
     );
   }
